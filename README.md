@@ -9,4 +9,8 @@ Wheel Collider
 
 # TODO:
 
-Road.cs导致无法打包
+汽车物理：
+
+作用在车轮上的力取决于汽车方向。
+
+爬坡： Slope
